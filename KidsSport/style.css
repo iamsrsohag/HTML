@@ -48,7 +48,7 @@ p{
     text-decoration: none;
 }
 .top-social img{
-    background:black;
+    background:#eaeaea;
     margin:1rem;
     padding:1rem;
     border-radius: 50%;
@@ -309,7 +309,7 @@ display: flex;
     margin-top: 3rem;
 }
 .bottom-social img{
-    background: black;
+    background: 46084e;
     padding:1rem;
     border-radius: 50%;
 }
